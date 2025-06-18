@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.local
+
+# build output
+dist/
+
+# dependencies
+node_modules/
+
+# IDE files
+*.swp
+
+# logs
+npm-debug.log*

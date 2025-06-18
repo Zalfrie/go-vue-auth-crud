@@ -1,0 +1,18 @@
+# Environment files
+.env
+
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go vendor
+/vendor/
+
+# Logs
+*.log
+
+# IDE files
+*.swp

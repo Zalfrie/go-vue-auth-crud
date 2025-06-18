@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+
+# Go vendor
+/vendor/
+
+# Node modules
+node_modules/
+
+# IDE files
+*.swp
+*.tmp
+
+# Logs
+*.log
+
+# Zip releases
+go-vue-auth-crud.zip
