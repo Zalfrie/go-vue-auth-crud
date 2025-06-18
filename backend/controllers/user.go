@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"github.com/xuri/excelize/v2"
+	"github.com/360EntSecGroup-Skylar/excelize/v2"
 
 	"go-vue-auth-crud/models"
 )
